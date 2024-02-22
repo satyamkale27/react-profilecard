@@ -1,6 +1,6 @@
-##
+## How to run this application locally
 
-In the project directory, you can run:
+clone this repository by git clone https://github.com/satyamkale27/react-profilecard.git
 
 ### `npm start`
 
